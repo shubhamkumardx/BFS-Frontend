@@ -1,0 +1,78 @@
+.main{
+    margin-top: 2%;
+    height: 60px;
+    border: 1px solid rgb(212, 212, 212);
+}
+
+.textmain{
+    margin-top: 1.7%;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.button_show {
+    /* border-color: rgb(37,116,169); */
+    border: 1px solid rgb(37, 116, 169);
+    background-color: white;
+    color: rgb(37, 116, 169);
+    border-radius: 5px;
+    font-weight: 400;
+    margin-top: 1.6%;
+    margin-left: 5%;
+    height: 30px;
+    font-size: 14px;
+  }
+  .button_show:hover {
+    background-color: rgb(207, 224, 235);
+  }
+
+  .maincenter{
+    margin-top: 10%;
+   width: 80%;
+    border: 1px solid rgb(212, 212, 212);
+    height: auto;
+    margin-left: 11%;
+
+  }
+
+  .textmain2{
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 0px 0px 15px;
+  }
+
+  .maintext5{
+    font-size: 14px;
+  }
+
+  .main23{
+    margin-top: 2%;
+    /* height: 60px; */
+    height: auto;
+    border: 1px solid rgb(212, 212, 212);
+  }
+  .lasttext{
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 0px 0px 15px;
+  }
+  .liness{
+    margin-bottom: -0.1%;
+  }
+  .headerTh {
+    font-size: 18px;
+  }
+
+.tableetr{
+    background-color: rgb(244,244,244);
+    margin-top: -1.3%;
+    height: 45px;
+    width: 100%;
+    /* border: 1px solid rgb(212, 212, 212); */
+
+}
+.textmini{
+    padding: 10px 0px 0px 15px;
+    font-size: 14px;
+    margin-right: 4%;
+}

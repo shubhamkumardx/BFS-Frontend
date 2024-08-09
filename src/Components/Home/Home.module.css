@@ -1,0 +1,28 @@
+.main{
+   margin-top: 5%;
+   width: 30%;
+   margin-left: 35%;
+}
+
+.select_example{
+     margin-top: -3.4%;
+   
+}
+
+.button_show{
+    border-color: rgb(37,116,169);
+    background-color: white;
+    color: rgb(37,116,169);
+    border-radius: 5px;
+    font-weight: 400;
+    margin-top: 3%;
+    margin-left: 44%;
+ 
+}
+.button_show:hover{
+    background-color: rgb(207, 224, 235);
+   
+}
+.heading{
+    font-size: 15px;
+}
